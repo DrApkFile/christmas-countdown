@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Christmas 2025 - Countdown to 2026",
   description:
     "Experience a futuristic 3D animated Christmas countdown with games and interactive features. Nigerian Time",
-  generator: "v0.app",
+  generator: "kenzy",
 }
 
 export default function RootLayout({
